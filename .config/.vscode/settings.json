@@ -1,0 +1,12 @@
+{
+    "files.autoSave": "onWindowChange",
+    "bracketPairColorizer.showVerticalScopeLine": false,
+    "bracketPairColorizer.showHorizontalScopeLine": false,
+    "editor.scrollPredominantAxis": false,
+    "editor.cursorStyle": "line-thin",
+    "editor.renderIndentGuides": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+}
